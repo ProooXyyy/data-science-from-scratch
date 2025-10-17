@@ -68,3 +68,12 @@ Quick-reference cheatsheets for all major topics can be found in the `resources/
 ---
 
 Congratulations on completing the entire course structure! Your repository is now complete and ready to be shared.
+
+## 🤝 Contributing & Feedback
+
+This is a free and open-source project. Feel free to submit a pull request for any improvements or bug fixes.
+
+If you have any suggestions, questions, or want to request a change, please feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/yashwant-bhosle-proxy/)**.
+
+---
+
