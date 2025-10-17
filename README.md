@@ -53,7 +53,7 @@ The course is divided into modules, each contained within its own numbered folde
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/data-science-from-scratch.git](https://github.com/YourUsername/data-science-from-scratch.git)
+    git clone https://github.com/ProooXyyy/data-science-in-short.git
     ```
 2.  **Set Up the Environment:** Follow the instructions in the `00_Setup_and_Introduction/00_Environment_Setup.ipynb` notebook to create your `conda` environment.
 3.  **Follow the Modules:** Work through the notebooks in order, starting from Module 0.
